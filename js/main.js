@@ -53,14 +53,14 @@
         });
         
         
-        $(window).smartresize(function(){
-            $container.isotope({
-                // update columnWidth to a percentage of container width
-                masonry: {
-                    columnWidth: $container.width() / $resize
-                }
-            });
-        });
+        // $(window).smartresize(function(){
+        //     $container.isotope({
+        //         // update columnWidth to a percentage of container width
+        //         masonry: {
+        //             columnWidth: $container.width() / $resize
+        //         }
+        //     });
+        // });
         
 
 }  
