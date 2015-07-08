@@ -342,13 +342,13 @@ section.section {
 ============================= */
 
 #parallax1{	
-	background-image: url(../img/parallax/pal9.png);
+	background-image: url(../img/parallax/mosaic1.png);
 }
 #parallax2{	
-	background-image: url(../img/parallax/img5.jpg);
+	background-image: url(../img/parallax/mosaic1.png);
 }
 #testimonials{	
-	background-image: url(../img/parallax/pal8.png);
+	background-image: url(../img/parallax/mosaic1.png);
 }
 
 #section-contact{
